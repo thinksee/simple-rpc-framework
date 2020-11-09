@@ -1,0 +1,2 @@
+nettyClientTransport=com.thinksee.remoting.transport.netty.client.NettyClientTransport
+socketRpcClient=com.thinksee.remoting.transport.socket.SocketRpcClient
